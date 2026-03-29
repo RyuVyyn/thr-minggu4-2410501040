@@ -13,18 +13,18 @@ RayaBudget adalah aplikasi manajemen uang THR (Tunjangan Hari Raya) untuk mencat
 ## Screenshot
 
 ### 1. Tampilan Home dengan Tab Tambah Pemasukan (Light Mode)
-![SS1](assets/SS1.jpeg)
+<img src="assets/SS1.jpeg" width="300">
 
 ### 2. Tampilan Home dengan Tab Tambah Pengeluaran, serta filter transaksi pengeluaran di Tab Transaksi (Light Mode)
-![SS2](assets/SS2.jpeg)
+<img src="assets/SS2.jpeg" width="300">
 
 ### 3. Tab Summary (Light Mode)
-![SS3](assets/SS3.jpeg)
+<img src="assets/SS3.jpeg" width="300">
 
 ### 4. Tampilan Home dengan Tab Tambah Pemasukan (Dark Mode)
-![SS4](assets/SS4.jpeg)
+<img src="assets/SS4.jpeg" width="300">
 
 ### 5. Tab Summary (Dark Mode)
-![SS5](assets/SS5.jpeg)
+<img src="assets/SS5.jpeg" width="300">
 ## Cara Menjalankan
 npm install && npx expo start
